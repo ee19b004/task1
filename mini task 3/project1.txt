@@ -1,0 +1,25 @@
+check if circuit is proper working
+	if yes- Alright
+	if no-
+		check the folllowing
+		bluetooth--arduino--code--dust particle sensor--relay
+		check if all are lighten up
+	if no- check that particular part
+	if yes- check from beginning
+		check the bluetooth connection and code
+		code shall be checked line by line without ignoring a single punctuation
+	if fault- correct it
+	if correct - move to next part
+		check the dust particle sensor
+		check all the connection
+		check any short ciruit or circuit break
+	if no- bring new sensor or correct the faulty
+	if yes- move to next part
+		check the relay
+		check the connetions 
+		check short circuit
+	if wrong - bring new or correct the faulty 
+	if correct- then move forward
+	check for batteries 
+		change the voltages making them high and low according to the situation
+	if everything is fine it shall work otherwise there must be some error in designing 
